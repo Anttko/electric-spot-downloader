@@ -1,0 +1,1 @@
+* * * * * python3 /app/electric_price_downloader/python3 electric_data_downloader.py && echo "it works" > /app/electric_price_downloader/it_works.txt

@@ -1,0 +1,5 @@
+* * * * * echo "Current date is `date`" > /var/log/cron 2>&1
+#* * * * * /usr/local/bin/python3 /app/electric_price_downloader/python3 electric_data_downloader.py 2>&1
+# End of crontab
+
+
